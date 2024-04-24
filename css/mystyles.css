@@ -1,0 +1,68 @@
+.newpage_h1{
+    color: black;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.newpage_body{
+    background-color: lightblue;
+}
+a{
+    margin-left: 10px;
+    margin-top: 10px;
+    color: blue;
+}
+
+img{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.ordered_list{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24;
+    color: black;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36;
+    text-align: center;
+}
+
+ol{
+    list-style-position:inside;
+}
+
+ul{
+    list-style-position:inside;
+}
+
+.tableauPlaceholder{
+    border: solid blue 5px;
+    margin: 75px;
+    width: max-content;
+}
+
+object{
+    display: block;
+}
+
+.tableauViz{
+    margin: 75px;
+}
+
+iframe{
+    margin-left: 400px;
+    border: solid black 3px;
+    height: 400px;
+    width: 700px;
+}
+
